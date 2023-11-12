@@ -1,6 +1,5 @@
 'use strict';
 // constants and variabels
-alert("please enable desktop site if you are viewing in phone");
 const roll = document.querySelector(".btn--roll");
 const dice = document.querySelector(".dice");
 const current1=document.querySelector("#current--0");
